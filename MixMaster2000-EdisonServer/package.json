@@ -1,0 +1,10 @@
+{
+  "name": "MixMaster2000-EdisonServer",
+  "version": "0.0.1",
+  "description": "MixMaster2000-EdisonServer",
+  "main": "server.js",
+  "author": {
+    "name": "jodrew",
+    "email": ""
+  }
+}
